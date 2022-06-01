@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+	<title>Reading poems</title>
+	<link>http://localhost:4000</link>
+	<lastBuildDate>Wed, 01 Jun 2022 03:47:32 -0400</lastBuildDate>
+	<language>en-US</language>
+	<generator>Jekyll (http://jekyllrb.com)</generator>
+	<itunes:author>Your Name</itunes:author>
+	<itunes:subtitle>Poetry for you!</itunes:subtitle>
+	<itunes:summary>Poetry for you!</itunes:summary>
+	<description>Poetry for you!</description>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:keywords>news</itunes:keywords>
+	<itunes:owner>
+		<itunes:name>Your Name</itunes:name>
+		<itunes:email>jumpers.acumen.0k@icloud.com</itunes:email>
+	</itunes:owner>
+	
+	<itunes:category text="Find categories on iTunes"/>
+	
+	<itunes:image href="http://localhost:4000/img/generic-2000.png"/>
+
+
+	<item>
+		<title>Episode 2: All filler no killer</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Mon, 23 Feb 2015 21:00:00 -0500</pubDate>
+		<link>http://localhost:4000/episodes/2/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/2/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;There’s really no reason to listen to this. All filler, no killer.&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:19</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/generic-2.mp3" length="342312" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>Poe - Romance</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Mon, 23 Feb 2015 00:00:00 -0500</pubDate>
+		<link>http://localhost:4000/episodes/1/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/1/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;Romance, who loves to nod and sing,&lt;br /&gt;
+With drowsy head and folded wing,&lt;br /&gt;
+Among the green leaves as they shake&lt;br /&gt;
+Far down within some shadowy lake,&lt;br /&gt;
+To me a painted paroquet&lt;br /&gt;
+Hath been—a most familiar bird—&lt;br /&gt;
+Taught me my alphabet to say—&lt;br /&gt;
+To lisp my very earliest word&lt;br /&gt;
+While in the wild wood I did lie,&lt;br /&gt;
+A child—with a most knowing eye.&lt;/p&gt;
+
+&lt;p&gt;Of late, eternal Condor years&lt;br /&gt;
+So shake the very Heaven on high&lt;br /&gt;
+With tumult as they thunder by,&lt;br /&gt;
+I have no time for idle cares&lt;br /&gt;
+Through gazing on the unquiet sky.&lt;br /&gt;
+And when an hour with calmer wings&lt;br /&gt;
+Its down upon my spirit flings—&lt;br /&gt;
+That little time with lyre and rhyme&lt;br /&gt;
+To while away—forbidden things!&lt;br /&gt;
+My heart would feel to be a crime&lt;br /&gt;
+Unless it trembled with the strings.&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:01:08</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Romance_Poe.mp3" length="1030833" type="audio/mpeg" />
+	</item>
+	
+</channel>
+</rss>
