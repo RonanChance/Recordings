@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>Reading poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Wed, 01 Jun 2022 03:47:32 -0400</lastBuildDate>
+	<lastBuildDate>Wed, 01 Jun 2022 16:22:41 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -27,8 +27,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 		<title>Episode 2: All filler no killer</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Mon, 23 Feb 2015 21:00:00 -0500</pubDate>
-		<link>http://localhost:4000/episodes/2/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/2/</guid>
+		<link>http://localhost:4000/Recordings/episodes/2/</link>
+		<guid isPermaLink="true">http://localhost:4000/Recordings/episodes/2/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;There’s really no reason to listen to this. All filler, no killer.&lt;/p&gt;
 </content:encoded>
@@ -43,8 +43,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 		<title>Poe - Romance</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Mon, 23 Feb 2015 00:00:00 -0500</pubDate>
-		<link>http://localhost:4000/episodes/1/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/1/</guid>
+		<link>http://localhost:4000/Recordings/episodes/1/</link>
+		<guid isPermaLink="true">http://localhost:4000/Recordings/episodes/1/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Romance, who loves to nod and sing,&lt;br /&gt;
 With drowsy head and folded wing,&lt;br /&gt;
@@ -68,6 +68,8 @@ That little time with lyre and rhyme&lt;br /&gt;
 To while away—forbidden things!&lt;br /&gt;
 My heart would feel to be a crime&lt;br /&gt;
 Unless it trembled with the strings.&lt;/p&gt;
+
+&lt;p&gt;Edgar Allan Poe&lt;/p&gt;
 </content:encoded>
 		<itunes:author>Your Name</itunes:author>
 		<itunes:summary></itunes:summary>
