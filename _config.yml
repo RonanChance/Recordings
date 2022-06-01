@@ -6,7 +6,8 @@ title_short: "520"
 email: "jumpers.acumen.0k@icloud.com"
 description: "Poetry for you!"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+# url: "http://example.com" # the base hostname & protocol for your site
+url: "https://ronanchance.github.io/Recordings/"
 itunes_url: "https://itunes.apple.com/us/podcast/xxx"
 
 # itunes_id creates a smart banner on Safari in iOS prompting
