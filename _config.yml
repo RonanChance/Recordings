@@ -5,7 +5,7 @@ title: "Reading poems"
 title_short: "520"
 email: "jumpers.acumen.0k@icloud.com"
 description: "Poetry for you!"
-baseurl: "/Recordings/" # the subpath of your site, e.g. /blog/
+baseurl: "/Recordings" # the subpath of your site, e.g. /blog/
 # url: "http://example.com" # the base hostname & protocol for your site
 url: "https://ronanchance.github.io"
 itunes_url: "https://itunes.apple.com/us/podcast/xxx"
