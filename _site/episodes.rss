@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>8PM Poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Fri, 03 Jun 2022 03:13:31 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 03:55:01 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -27,8 +27,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 		<title>Joyce - In The Dark Pine-Wood</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Thu, 02 Jun 2022 08:00:00 -0400</pubDate>
-		<link>http://localhost:4000/Recordings/episodes/3/</link>
-		<guid isPermaLink="true">http://localhost:4000/Recordings/episodes/3/</guid>
+		<link>http://localhost:4000/episodes/3/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/3/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;In the dark pine—wood&lt;br /&gt;
 I would we lay,&lt;br /&gt;
@@ -61,8 +61,8 @@ Sweet love, away&lt;/p&gt;
 		<title>Shelley - Love&apos;s Philosophy</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Thu, 02 Jun 2022 07:00:00 -0400</pubDate>
-		<link>http://localhost:4000/Recordings/episodes/2/</link>
-		<guid isPermaLink="true">http://localhost:4000/Recordings/episodes/2/</guid>
+		<link>http://localhost:4000/episodes/2/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/2/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;The fountains mingle with the river&lt;br /&gt;
    And the rivers with the ocean,&lt;br /&gt;
@@ -93,8 +93,8 @@ What is all this sweet work worth&lt;br /&gt;
 		<title>Poe - Romance</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Wed, 01 Jun 2022 07:00:00 -0400</pubDate>
-		<link>http://localhost:4000/Recordings/episodes/1/</link>
-		<guid isPermaLink="true">http://localhost:4000/Recordings/episodes/1/</guid>
+		<link>http://localhost:4000/episodes/1/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/1/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Romance, who loves to nod and sing,&lt;br /&gt;
 With drowsy head and folded wing,&lt;br /&gt;

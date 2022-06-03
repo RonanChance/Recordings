@@ -13,7 +13,7 @@
       	<small>{{ page.date | date: "%-d %B %Y" }}</small>
 		<br> </br>
         <audio preload="metadata" controls="" style="width:100%;">
-			  <source src="/Recordings/podcasts/{{ page.media }}" type="audio/mpeg">
+			  <source src="/podcasts/{{ page.media }}" type="audio/mpeg">
 			Sadness. Your browser does not support the audio element.
 			</audio>
 			<!-- <div style="padding-top: 20px;"><a href="/podcasts/{{ page.media }}">Download MP3</a> | <a href="/episodes.rss">Subscribe to the podcast</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a> -->
@@ -26,9 +26,9 @@
 
 <!-- {% include footer.html %} -->
 
-	<script>
+	<!-- <script>
 		$('audio').mediaelementplayer();
-	</script>
+	</script> -->
 
 
 </body>
