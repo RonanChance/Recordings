@@ -1,7 +1,7 @@
 exclude: ['README.md', 'preview.sh', 'Gemfile', 'Gemfile.lock']
 
 # Used to generate the site
-title: "Reading poems"
+title: "8PM Poems"
 title_short: "520"
 email: "jumpers.acumen.0k@icloud.com"
 description: "Poetry for you!"
@@ -44,3 +44,5 @@ kramdown:
 # Plugins
 plugins:
   - jekyll-seo-tag
+
+future: True
