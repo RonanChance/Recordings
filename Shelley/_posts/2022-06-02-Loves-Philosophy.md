@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: episodes/2/
-title: "Shelley - Love's Philosophy"
+title: "Love's Philosophy"
 excerpt: ""
 date: 2022-06-02 11:00:00
 media: Shelley/Loves_Philosophy.mp3

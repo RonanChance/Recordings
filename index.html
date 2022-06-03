@@ -4,14 +4,43 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">{{ site.description }}</h1>
+  <h1 class="page-heading">James Augustine Aloysius Joyce</h1>
 
   <ul class="post-list">
-    {% for post in site.posts limit:10 %}
+    {% for post in site.categories.Joyce limit:10 %}
       <li>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" font_size=15 href="{{ post.url | prepend: site.baseurl }}" style="font-size: 18px;">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <h1 class="page-heading">Edgar Allan Poe</h1>
+  
+  <ul class="post-list">
+    {% for post in site.categories.Poe limit:10 %}
+      <li>
+
+        <h2>
+          <a class="post-link" font_size=15 href="{{ post.url | prepend: site.baseurl }}" style="font-size: 18px;">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Percy Bysshe Shelley</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories.Shelley limit:10 %}
+      <li>
+
+        <h2>
+          <a class="post-link" font_size=15 href="{{ post.url | prepend: site.baseurl }}" style="font-size: 18px;">{{ post.title }}</a>
         </h2>
         <p>{{ post.excerpt }}</p>
       </li>

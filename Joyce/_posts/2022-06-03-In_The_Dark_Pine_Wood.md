@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: episodes/3/
-title: "Joyce - In The Dark Pine-Wood"
+title: "In The Dark Pine-Wood"
 excerpt: ""
 date: 2022-06-02 12:00:00
 media: Joyce/In_The_Dark_Pine_Wood.mp3
