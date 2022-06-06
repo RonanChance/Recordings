@@ -12,11 +12,12 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 30px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-family: Apple Chancery, cursive;
 
     &,
     &:visited {
@@ -27,6 +28,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    font-family: Apple Chancery, cursive;
 
     .menu-icon {
         display: none;
@@ -168,10 +170,13 @@
 
 .page-heading {
     font-size: 20px;
+    text-decoration: underline;
 }
 
 .post-list {
     margin-left: 0;
+    font-family: Apple Chancery, cursive;
+    font-style: italic;
     list-style: none;
 
     > li {

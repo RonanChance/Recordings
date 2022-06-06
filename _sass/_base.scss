@@ -14,13 +14,17 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
+    // font-family: $base-font-family;
+    font-family: Stencil Std, fantasy;
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+    background: linear-gradient(#ecd9fb, #A0A0FF);
+    background-attachment: fixed;
+    // background-repeat: no-repeat;
+    // background-color: $background-color;
+    // -webkit-text-size-adjust: 100%;
 }
 
 

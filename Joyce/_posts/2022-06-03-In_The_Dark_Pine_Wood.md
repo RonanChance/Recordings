@@ -28,3 +28,5 @@ O unto the pine—wood\\
 At noon of day\\
 Come with me now,\\
 Sweet love, away
+
+— James Joyce
