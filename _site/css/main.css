@@ -19,8 +19,11 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background: linear-gradient(#ecd9fb, #A0A0FF);
-  background-attachment: fixed; }
+  background: linear-gradient(#ecd9fb, #A0A0FF) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

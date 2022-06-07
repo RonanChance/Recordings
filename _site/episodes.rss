@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>8PM Poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Mon, 06 Jun 2022 04:21:22 -0400</lastBuildDate>
+	<lastBuildDate>Mon, 06 Jun 2022 23:22:31 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -23,6 +23,103 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	<itunes:image href="http://localhost:4000/img/generic-2000.png"/>
 
 
+	<item>
+		<title>Ozymandias</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Mon, 06 Jun 2022 19:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/5/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/5/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;I met a traveller from an antique land,&lt;br /&gt;
+Who said—“Two vast and trunkless legs of stone&lt;br /&gt;
+Stand in the desert. . . . Near them, on the sand,&lt;br /&gt;
+Half sunk a shattered visage lies, whose frown,&lt;br /&gt;
+And wrinkled lip, and sneer of cold command,&lt;br /&gt;
+Tell that its sculptor well those passions read&lt;br /&gt;
+Which yet survive, stamped on these lifeless things,&lt;br /&gt;
+The hand that mocked them, and the heart that fed;&lt;br /&gt;
+And on the pedestal, these words appear:&lt;br /&gt;
+My name is Ozymandias, King of Kings;&lt;br /&gt;
+Look on my Works, ye Mighty, and despair!&lt;br /&gt;
+Nothing beside remains. Round the decay&lt;br /&gt;
+Of that colossal Wreck, boundless and bare&lt;br /&gt;
+The lone and level sands stretch far away.”&lt;/p&gt;
+
+&lt;p&gt;— Percy Shelley&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:01:02</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/Ozymandias.mp3" length="1203932" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>Stanzas Written In Dejection</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Mon, 06 Jun 2022 16:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/4/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/4/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;The sun is warm, the sky is clear,&lt;br /&gt;
+         The waves are dancing fast and bright,&lt;br /&gt;
+      Blue isles and snowy mountains wear&lt;br /&gt;
+      The purple noon’s transparent might,&lt;br /&gt;
+         The breath of the moist earth is light,&lt;br /&gt;
+      Around its unexpanded buds;&lt;br /&gt;
+         Like many a voice of one delight,&lt;br /&gt;
+      The winds, the birds, the ocean floods,&lt;br /&gt;
+The City’s voice itself, is soft like Solitude’s.&lt;br /&gt;
+&lt;br /&gt;
+         I see the Deep’s untrampled floor&lt;br /&gt;
+         With green and purple seaweeds strown;&lt;br /&gt;
+      I see the waves upon the shore,&lt;br /&gt;
+      Like light dissolved in star-showers, thrown:&lt;br /&gt;
+         I sit upon the sands alone,—&lt;br /&gt;
+      The lightning of the noontide ocean&lt;br /&gt;
+         Is flashing round me, and a tone&lt;br /&gt;
+      Arises from its measured motion,&lt;br /&gt;
+How sweet! did any heart now share in my emotion.&lt;br /&gt;
+&lt;br /&gt;
+         Alas! I have nor hope nor health,&lt;br /&gt;
+         Nor peace within nor calm around,&lt;br /&gt;
+      Nor that content surpassing wealth&lt;br /&gt;
+      The sage in meditation found,&lt;br /&gt;
+         And walked with inward glory crowned—&lt;br /&gt;
+      Nor fame, nor power, nor love, nor leisure.&lt;br /&gt;
+         Others I see whom these surround—&lt;br /&gt;
+      Smiling they live, and call life pleasure;&lt;br /&gt;
+To me that cup has been dealt in another measure.&lt;br /&gt;
+&lt;br /&gt;
+         Yet now despair itself is mild,&lt;br /&gt;
+         Even as the winds and waters are;&lt;br /&gt;
+      I could lie down like a tired child,&lt;br /&gt;
+      And weep away the life of care&lt;br /&gt;
+         Which I have borne and yet must bear,&lt;br /&gt;
+      Till death like sleep might steal on me,&lt;br /&gt;
+         And I might feel in the warm air&lt;br /&gt;
+      My cheek grow cold, and hear the sea&lt;br /&gt;
+Breathe o’er my dying brain its last monotony.&lt;br /&gt;
+&lt;br /&gt;
+         Some might lament that I were cold,&lt;br /&gt;
+         As I, when this sweet day is gone,&lt;br /&gt;
+      Which my lost heart, too soon grown old,&lt;br /&gt;
+      Insults with this untimely moan;&lt;br /&gt;
+         They might lament—for I am one&lt;br /&gt;
+      Whom men love not,—and yet regret,&lt;br /&gt;
+         Unlike this day, which, when the sun&lt;br /&gt;
+      Shall on its stainless glory set,&lt;br /&gt;
+Will linger, though enjoyed, like joy in memory yet.&lt;/p&gt;
+
+&lt;p&gt;— Percy Shelley&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:02:44</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/Stanzas_Written_In_Dejection.mp3" length="3253012" type="audio/mpeg" />
+	</item>
+	
 	<item>
 		<title>In The Dark Pine-Wood</title>
 		<dc:creator>Your Name</dc:creator>
