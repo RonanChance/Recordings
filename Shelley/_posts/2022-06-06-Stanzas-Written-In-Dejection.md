@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: episodes/4/
+permalink: episodes/Stanzas_Written_In_Dejection/
 title: "Stanzas Written In Dejection"
 excerpt: ""
 date: 2022-06-06 20:00:00

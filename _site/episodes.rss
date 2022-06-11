@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>8PM Poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Fri, 10 Jun 2022 21:19:41 -0400</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jun 2022 17:33:37 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -24,11 +24,132 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 
 
 	<item>
+		<title>All Day I Hear The Noise</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Sat, 11 Jun 2022 11:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/All_Day_I_Hear_The_Noise/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/All_Day_I_Hear_The_Noise/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;All day I hear the noise of waters &lt;br /&gt;
+Making moan, &lt;br /&gt;
+Sad as the sea-bird is when, going &lt;br /&gt;
+Forth alone, &lt;br /&gt;
+He hears the winds cry to the water’s &lt;br /&gt;
+Monotone. &lt;br /&gt;
+ &lt;br /&gt;
+The grey winds, the cold winds are blowing &lt;br /&gt;
+Where I go. &lt;br /&gt;
+I hear the noise of many waters &lt;br /&gt;
+Far below. &lt;br /&gt;
+All day, all night, I hear them flowing &lt;br /&gt;
+To and fro.&lt;/p&gt;
+
+&lt;p&gt;— James Joyce&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:35</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Joyce/All_Day_I_Hear_The_Noise.mp3" length="519191" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>Nightpiece</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Sat, 11 Jun 2022 10:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/Nightpiece/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Nightpiece/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;Gaunt in gloom, &lt;br /&gt;
+The pale stars their torches, &lt;br /&gt;
+Enshrouded, wave. &lt;br /&gt;
+Ghostfires from heaven’s far verges faint illume, &lt;br /&gt;
+Arches on soaring arches, &lt;br /&gt;
+Night’s sindark nave. &lt;br /&gt;
+ &lt;br /&gt;
+Seraphim, &lt;br /&gt;
+The lost hosts awaken &lt;br /&gt;
+To service till &lt;br /&gt;
+In moonless gloom each lapses muted, dim, &lt;br /&gt;
+Raised when she has and shaken &lt;br /&gt;
+Her thurible. &lt;br /&gt;
+ &lt;br /&gt;
+And long and loud, &lt;br /&gt;
+To night’s nave upsoaring, &lt;br /&gt;
+A starknell tolls &lt;br /&gt;
+As the bleak incense surges, cloud on cloud, &lt;br /&gt;
+Voidward from the adoring &lt;br /&gt;
+Waste of souls.&lt;/p&gt;
+
+&lt;p&gt;— James Joyce&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:46</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Joyce/Nightpiece.mp3" length="729124" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>He Who Hath Glory Lost</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Sat, 11 Jun 2022 09:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/He_Who_Hath_Glory_Lost/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/He_Who_Hath_Glory_Lost/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;He who hath glory lost, nor hath &lt;br /&gt;
+Found any soul to fellow his, &lt;br /&gt;
+Among his foes in scorn and wrath &lt;br /&gt;
+Holding to ancient nobleness, &lt;br /&gt;
+That high unconsortable one — &lt;br /&gt;
+His love is his companion.&lt;/p&gt;
+
+&lt;p&gt;— James Joyce&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:17</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Joyce/He_Who_Hath_Glory_Lost.mp3" length="262608" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>Strings in The Earth</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Sat, 11 Jun 2022 08:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/Strings_in_The_Earth/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Strings_in_The_Earth/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;Strings in the earth and air &lt;br /&gt;
+Make music sweet; &lt;br /&gt;
+Strings by the river where &lt;br /&gt;
+The willows meet. &lt;br /&gt;
+ &lt;br /&gt;
+There’s music along the river &lt;br /&gt;
+For Love wanders there, &lt;br /&gt;
+Pale flowers on his mantle, &lt;br /&gt;
+Dark leaves on his hair. &lt;br /&gt;
+ &lt;br /&gt;
+All softly playing, &lt;br /&gt;
+With head to the music bent, &lt;br /&gt;
+And fingers straying &lt;br /&gt;
+Upon an instrument.&lt;/p&gt;
+
+&lt;p&gt;— James Joyce&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:25</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Joyce/Strings_in_The_Earth.mp3" length="372769" type="audio/mpeg" />
+	</item>
+	
+	<item>
 		<title>Silence</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 11:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/10/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/10/</guid>
+		<link>http://localhost:4000/episodes/Silence/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Silence/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;There are some qualities—some incorporate things, &lt;br /&gt;
    That have a double life, which thus is made &lt;br /&gt;
@@ -59,8 +180,8 @@ No foot of man,) commend thyself to God!&lt;/p&gt;
 		<title>A Dream Within a Dream</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 10:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/9/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/9/</guid>
+		<link>http://localhost:4000/episodes/A_Dream_Within_a_Dream/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/A_Dream_Within_a_Dream/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Take this kiss upon the brow! &lt;br /&gt;
 And, in parting from you now, &lt;br /&gt;
@@ -101,8 +222,8 @@ But a dream within a dream?&lt;/p&gt;
 		<title>Spirits of the Dead</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 09:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/8/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/8/</guid>
+		<link>http://localhost:4000/episodes/Spirits_of_the_Dead/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Spirits_of_the_Dead/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Thy soul shall find itself alone &lt;br /&gt;
 ‘Mid dark thoughts of the grey tomb-stone; &lt;br /&gt;
@@ -143,15 +264,15 @@ A mystery of mysteries!&lt;/p&gt;
 		<itunes:summary></itunes:summary>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>00:01:35</itunes:duration>
-		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/Spirits_of_the_Dead.mp3" length="1473475" type="audio/mpeg" />
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/Spirits_of_The_Dead.mp3" length="1473475" type="audio/mpeg" />
 	</item>
 	
 	<item>
 		<title>When Passion&apos;s Trance is Overpast</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 08:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/12/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/12/</guid>
+		<link>http://localhost:4000/episodes/When_Passions_Trance_is_Overpast/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/When_Passions_Trance_is_Overpast/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;When passion’s trance is overpast, &lt;br /&gt;
 If tenderness and truth could last, &lt;br /&gt;
@@ -184,8 +305,8 @@ And form all others, life and love.&lt;/p&gt;
 		<title>Imitation</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 08:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/7/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/7/</guid>
+		<link>http://localhost:4000/episodes/Imitation/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Imitation/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;A dark unfathomed tide &lt;br /&gt;
 Of interminable pride - &lt;br /&gt;
@@ -221,8 +342,8 @@ With a thought I then did cherish.&lt;/p&gt;
 		<title>The Flower That Smiles Today</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 07:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/11/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/11/</guid>
+		<link>http://localhost:4000/episodes/The_Flower_That_Smiles_Today/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/The_Flower_That_Smiles_Today/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;The flower that smiles to-day &lt;br /&gt;
           To-morrow dies; &lt;br /&gt;
@@ -254,15 +375,15 @@ Dream thou—and from thy sleep &lt;br /&gt;
 		<itunes:summary></itunes:summary>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>00:00:58</itunes:duration>
-		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/The_Flower_That Smiles_Today.mp3" length="877964" type="audio/mpeg" />
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/The_Flower_That_Smiles_Today.mp3" length="877964" type="audio/mpeg" />
 	</item>
 	
 	<item>
 		<title>The Raven</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 07:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/6/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/6/</guid>
+		<link>http://localhost:4000/episodes/The_Raven/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/The_Raven/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Once upon a midnight dreary, while I pondered, weak and weary, &lt;br /&gt;
 Over many a quaint and curious volume of forgotten lore— &lt;br /&gt;
@@ -403,8 +524,8 @@ And my soul from out that shadow that lies floating on the floor &lt;br /&gt;
 		<title>Ozymandias</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Mon, 06 Jun 2022 19:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/5/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/5/</guid>
+		<link>http://localhost:4000/episodes/Ozymandias/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Ozymandias/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;I met a traveller from an antique land,&lt;br /&gt;
 Who said—“Two vast and trunkless legs of stone&lt;br /&gt;
@@ -434,8 +555,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 		<title>Stanzas Written In Dejection</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Mon, 06 Jun 2022 16:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/4/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/4/</guid>
+		<link>http://localhost:4000/episodes/Stanzas_Written_In_Dejection/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Stanzas_Written_In_Dejection/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;The sun is warm, the sky is clear,&lt;br /&gt;
          The waves are dancing fast and bright,&lt;br /&gt;
@@ -500,8 +621,8 @@ Will linger, though enjoyed, like joy in memory yet.&lt;/p&gt;
 		<title>In The Dark Pine-Wood</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Thu, 02 Jun 2022 08:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/3/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/3/</guid>
+		<link>http://localhost:4000/episodes/In_The_Dark_Pine_Wood/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/In_The_Dark_Pine_Wood/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;In the dark pine—wood&lt;br /&gt;
 I would we lay,&lt;br /&gt;
@@ -536,8 +657,8 @@ Sweet love, away&lt;/p&gt;
 		<title>Love&apos;s Philosophy</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Thu, 02 Jun 2022 07:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/2/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/2/</guid>
+		<link>http://localhost:4000/episodes/Loves_Philosophy/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Loves_Philosophy/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;The fountains mingle with the river&lt;br /&gt;
    And the rivers with the ocean,&lt;br /&gt;
@@ -570,8 +691,8 @@ What is all this sweet work worth&lt;br /&gt;
 		<title>Romance</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Wed, 01 Jun 2022 07:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/1/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/1/</guid>
+		<link>http://localhost:4000/episodes/Romance/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Romance/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Romance, who loves to nod and sing,&lt;br /&gt;
 With drowsy head and folded wing,&lt;br /&gt;

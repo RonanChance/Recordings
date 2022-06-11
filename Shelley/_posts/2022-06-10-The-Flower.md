@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: episodes/11/
+permalink: episodes/The_Flower_That_Smiles_Today/
 title: "The Flower That Smiles Today"
 excerpt: ""
 date: 2022-06-10 11:00:00
-media: Shelley/The_Flower_That Smiles_Today.mp3
+media: Shelley/The_Flower_That_Smiles_Today.mp3
 length: 877964
 duration: "00:00:58"
 explicit: "no"

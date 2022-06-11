@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">James Augustine Aloysius Joyce</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.Joyce limit:10 %}
+    {% for post in site.categories.Joyce reversed limit:10 %}
       <li>
 
         <h2>
@@ -22,7 +22,7 @@ layout: default
   <h1 class="page-heading">Edgar Allan Poe</h1>
   
   <ul class="post-list">
-    {% for post in site.categories.Poe limit:10 %}
+    {% for post in site.categories.Poe reversed limit:10 %}
       <li>
 
         <h2>
@@ -36,7 +36,7 @@ layout: default
   <h1 class="page-heading">Percy Bysshe Shelley</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.Shelley limit:10 %}
+    {% for post in site.categories.Shelley reversed limit:10 %}
       <li>
 
         <h2>

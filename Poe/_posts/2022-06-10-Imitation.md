@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: episodes/7/
+permalink: episodes/Imitation/
 title: "Imitation"
 excerpt: ""
 date: 2022-06-10 12:00:00

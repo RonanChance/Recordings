@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: episodes/2/
+permalink: episodes/Loves_Philosophy/
 title: "Love's Philosophy"
 excerpt: ""
 date: 2022-06-02 11:00:00

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: episodes/5/
+permalink: episodes/Ozymandias/
 title: "Ozymandias"
 excerpt: ""
 date: 2022-06-06 23:00:00

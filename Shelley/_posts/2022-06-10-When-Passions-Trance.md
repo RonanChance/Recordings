@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: episodes/12/
+permalink: episodes/When_Passions_Trance_is_Overpast/
 title: "When Passion's Trance is Overpast"
 excerpt: ""
 date: 2022-06-10 12:00:00
