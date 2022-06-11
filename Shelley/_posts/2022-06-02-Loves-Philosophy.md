@@ -5,8 +5,8 @@ title: "Love's Philosophy"
 excerpt: ""
 date: 2022-06-02 11:00:00
 media: Shelley/Loves_Philosophy.mp3
-length: 818407
-duration: "00:00:54"
+length: 734256
+duration: "00:00:48"
 explicit: "no"
 ---
 The fountains mingle with the river\\

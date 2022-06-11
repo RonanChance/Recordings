@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>8PM Poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Mon, 06 Jun 2022 23:54:19 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jun 2022 20:54:09 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -23,6 +23,308 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	<itunes:image href="http://localhost:4000/img/generic-2000.png"/>
 
 
+	<item>
+		<title>Silence</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 11:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/10/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/10/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;There are some qualities—some incorporate things, &lt;br /&gt;
+   That have a double life, which thus is made &lt;br /&gt;
+A type of that twin entity which springs &lt;br /&gt;
+   From matter and light, evinced in solid and shade. &lt;br /&gt;
+There is a two-fold Silence—sea and shore— &lt;br /&gt;
+   Body and soul. One dwells in lonely places, &lt;br /&gt;
+   Newly with grass o’ergrown; some solemn graces, &lt;br /&gt;
+Some human memories and tearful lore, &lt;br /&gt;
+Render him terrorless: his name’s “No More.” &lt;br /&gt;
+He is the corporate Silence: dread him not! &lt;br /&gt;
+   No power hath he of evil in himself; &lt;br /&gt;
+But should some urgent fate (untimely lot!) &lt;br /&gt;
+   Bring thee to meet his shadow (nameless elf, &lt;br /&gt;
+That haunteth the lone regions where hath trod &lt;br /&gt;
+No foot of man,) commend thyself to God!&lt;/p&gt;
+
+&lt;p&gt;— Edgar Allan Poe&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:01:08</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/Silence.mp3" length="1048603" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>A Dream Within a Dream</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 10:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/9/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/9/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;Take this kiss upon the brow! &lt;br /&gt;
+And, in parting from you now, &lt;br /&gt;
+Thus much let me avow — &lt;br /&gt;
+You are not wrong, who deem &lt;br /&gt;
+That my days have been a dream; &lt;br /&gt;
+Yet if hope has flown away &lt;br /&gt;
+In a night, or in a day, &lt;br /&gt;
+In a vision, or in none, &lt;br /&gt;
+Is it therefore the less gone?  &lt;br /&gt;
+All that we see or seem &lt;br /&gt;
+Is but a dream within a dream. &lt;br /&gt;
+ &lt;br /&gt;
+I stand amid the roar &lt;br /&gt;
+Of a surf-tormented shore, &lt;br /&gt;
+And I hold within my hand &lt;br /&gt;
+Grains of the golden sand — &lt;br /&gt;
+How few! yet how they creep &lt;br /&gt;
+Through my fingers to the deep, &lt;br /&gt;
+While I weep — while I weep! &lt;br /&gt;
+O God! Can I not grasp &lt;br /&gt;
+Them with a tighter clasp? &lt;br /&gt;
+O God! can I not save &lt;br /&gt;
+One from the pitiless wave? &lt;br /&gt;
+Is all that we see or seem &lt;br /&gt;
+But a dream within a dream?&lt;/p&gt;
+
+&lt;p&gt;— Edgar Allan Poe&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:01:03</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/A_Dream_Within_a_Dream.mp3" length="1473475" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>Spirits of the Dead</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 09:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/8/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/8/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;Thy soul shall find itself alone &lt;br /&gt;
+‘Mid dark thoughts of the grey tomb-stone; &lt;br /&gt;
+Not one, of all the crowd, to pry &lt;br /&gt;
+Into thine hour of secrecy. &lt;br /&gt;
+ &lt;br /&gt;
+Be silent in that solitude, &lt;br /&gt;
+Which is not loneliness — for then &lt;br /&gt;
+The spirits of the dead, who stood &lt;br /&gt;
+In life before thee, are again &lt;br /&gt;
+In death around thee, and their will &lt;br /&gt;
+Shall overshadow thee; be still. &lt;br /&gt;
+ &lt;br /&gt;
+The night, though clear, shall frown, &lt;br /&gt;
+And the stars shall not look down &lt;br /&gt;
+From their high thrones in the Heaven &lt;br /&gt;
+With light like hope to mortals given, &lt;br /&gt;
+But their red orbs, without beam, &lt;br /&gt;
+To thy weariness shall seem &lt;br /&gt;
+As a burning and a fever &lt;br /&gt;
+Which would cling to thee for ever. &lt;br /&gt;
+ &lt;br /&gt;
+Now are thoughts thou shalt not banish, &lt;br /&gt;
+Now are visions ne’er to vanish; &lt;br /&gt;
+From thy spirit shall they pass &lt;br /&gt;
+No more, like dew-drop from the grass. &lt;br /&gt;
+ &lt;br /&gt;
+The breeze, the breath of God, is still, &lt;br /&gt;
+And the mist upon the hill &lt;br /&gt;
+Shadowy, shadowy, yet unbroken, &lt;br /&gt;
+Is a symbol and a token. &lt;br /&gt;
+How it hangs upon the trees, &lt;br /&gt;
+A mystery of mysteries!&lt;/p&gt;
+
+&lt;p&gt;— Edgar Allan Poe&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:01:35</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/Spirits_of_the_Dead.mp3" length="1473475" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>Imitation</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 08:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/7/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/7/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;A dark unfathomed tide &lt;br /&gt;
+Of interminable pride - &lt;br /&gt;
+A mystery, and a dream, &lt;br /&gt;
+Should my early life seem; &lt;br /&gt;
+I say that dream was fraught &lt;br /&gt;
+With a wild and waking thought &lt;br /&gt;
+Of beings that have been, &lt;br /&gt;
+Which my spirit hath not seen, &lt;br /&gt;
+Had I let them pass me by, &lt;br /&gt;
+With a dreaming eye! &lt;br /&gt;
+Let none of earth inherit &lt;br /&gt;
+That vision of my spirit; &lt;br /&gt;
+Those thoughts I would control, &lt;br /&gt;
+As a spell upon his soul: &lt;br /&gt;
+For that bright hope at last &lt;br /&gt;
+And that light time have past, &lt;br /&gt;
+And my worldly rest hath gone &lt;br /&gt;
+With a sigh as it passed on: &lt;br /&gt;
+I care not though it perish &lt;br /&gt;
+With a thought I then did cherish.&lt;/p&gt;
+
+&lt;p&gt;— Edgar Allan Poe&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:51</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/Imitation.mp3" length="771997" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>The Raven</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 07:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/6/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/6/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;Once upon a midnight dreary, while I pondered, weak and weary, &lt;br /&gt;
+Over many a quaint and curious volume of forgotten lore— &lt;br /&gt;
+    While I nodded, nearly napping, suddenly there came a tapping, &lt;br /&gt;
+As of some one gently rapping, rapping at my chamber door. &lt;br /&gt;
+“’Tis some visitor,” I muttered, “tapping at my chamber door— &lt;br /&gt;
+            Only this and nothing more.” &lt;br /&gt;
+ &lt;br /&gt;
+    Ah, distinctly I remember it was in the bleak December; &lt;br /&gt;
+And each separate dying ember wrought its ghost upon the floor. &lt;br /&gt;
+    Eagerly I wished the morrow;—vainly I had sought to borrow &lt;br /&gt;
+    From my books surcease of sorrow—sorrow for the lost Lenore— &lt;br /&gt;
+For the rare and radiant maiden whom the angels name Lenore— &lt;br /&gt;
+            Nameless here for evermore. &lt;br /&gt;
+ &lt;br /&gt;
+    And the silken, sad, uncertain rustling of each purple curtain &lt;br /&gt;
+Thrilled me—filled me with fantastic terrors never felt before; &lt;br /&gt;
+    So that now, to still the beating of my heart, I stood repeating &lt;br /&gt;
+    “’Tis some visitor entreating entrance at my chamber door— &lt;br /&gt;
+Some late visitor entreating entrance at my chamber door;— &lt;br /&gt;
+            This it is and nothing more.” &lt;br /&gt;
+ &lt;br /&gt;
+    Presently my soul grew stronger; hesitating then no longer, &lt;br /&gt;
+“Sir,” said I, “or Madam, truly your forgiveness I implore; &lt;br /&gt;
+    But the fact is I was napping, and so gently you came rapping, &lt;br /&gt;
+    And so faintly you came tapping, tapping at my chamber door, &lt;br /&gt;
+That I scarce was sure I heard you”—here I opened wide the door;— &lt;br /&gt;
+            Darkness there and nothing more. &lt;br /&gt;
+ &lt;br /&gt;
+    Deep into that darkness peering, long I stood there wondering, fearing, &lt;br /&gt;
+Doubting, dreaming dreams no mortal ever dared to dream before; &lt;br /&gt;
+    But the silence was unbroken, and the stillness gave no token, &lt;br /&gt;
+    And the only word there spoken was the whispered word, “Lenore?” &lt;br /&gt;
+This I whispered, and an echo murmured back the word, “Lenore!”— &lt;br /&gt;
+            Merely this and nothing more. &lt;br /&gt;
+ &lt;br /&gt;
+    Back into the chamber turning, all my soul within me burning, &lt;br /&gt;
+Soon again I heard a tapping somewhat louder than before. &lt;br /&gt;
+    “Surely,” said I, “surely that is something at my window lattice; &lt;br /&gt;
+      Let me see, then, what thereat is, and this mystery explore— &lt;br /&gt;
+Let my heart be still a moment and this mystery explore;— &lt;br /&gt;
+            ’Tis the wind and nothing more!” &lt;br /&gt;
+ &lt;br /&gt;
+    Open here I flung the shutter, when, with many a flirt and flutter, &lt;br /&gt;
+In there stepped a stately Raven of the saintly days of yore; &lt;br /&gt;
+    Not the least obeisance made he; not a minute stopped or stayed he; &lt;br /&gt;
+    But, with mien of lord or lady, perched above my chamber door— &lt;br /&gt;
+Perched upon a bust of Pallas just above my chamber door— &lt;br /&gt;
+            Perched, and sat, and nothing more. &lt;br /&gt;
+ &lt;br /&gt;
+Then this ebony bird beguiling my sad fancy into smiling, &lt;br /&gt;
+By the grave and stern decorum of the countenance it wore, &lt;br /&gt;
+“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven, &lt;br /&gt;
+Ghastly grim and ancient Raven wandering from the Nightly shore— &lt;br /&gt;
+Tell me what thy lordly name is on the Night’s Plutonian shore!” &lt;br /&gt;
+            Quoth the Raven “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    Much I marvelled this ungainly fowl to hear discourse so plainly, &lt;br /&gt;
+Though its answer little meaning—little relevancy bore; &lt;br /&gt;
+    For we cannot help agreeing that no living human being &lt;br /&gt;
+    Ever yet was blessed with seeing bird above his chamber door— &lt;br /&gt;
+Bird or beast upon the sculptured bust above his chamber door, &lt;br /&gt;
+            With such name as “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    But the Raven, sitting lonely on the placid bust, spoke only &lt;br /&gt;
+That one word, as if his soul in that one word he did outpour. &lt;br /&gt;
+    Nothing farther then he uttered—not a feather then he fluttered— &lt;br /&gt;
+    Till I scarcely more than muttered “Other friends have flown before— &lt;br /&gt;
+On the morrow he will leave me, as my Hopes have flown before.” &lt;br /&gt;
+            Then the bird said “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    Startled at the stillness broken by reply so aptly spoken, &lt;br /&gt;
+“Doubtless,” said I, “what it utters is its only stock and store &lt;br /&gt;
+    Caught from some unhappy master whom unmerciful Disaster &lt;br /&gt;
+    Followed fast and followed faster till his songs one burden bore— &lt;br /&gt;
+Till the dirges of his Hope that melancholy burden bore &lt;br /&gt;
+            Of ‘Never—nevermore’.” &lt;br /&gt;
+ &lt;br /&gt;
+    But the Raven still beguiling all my fancy into smiling, &lt;br /&gt;
+Straight I wheeled a cushioned seat in front of bird, and bust and door; &lt;br /&gt;
+    Then, upon the velvet sinking, I betook myself to linking &lt;br /&gt;
+    Fancy unto fancy, thinking what this ominous bird of yore— &lt;br /&gt;
+What this grim, ungainly, ghastly, gaunt, and ominous bird of yore &lt;br /&gt;
+            Meant in croaking “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    This I sat engaged in guessing, but no syllable expressing &lt;br /&gt;
+To the fowl whose fiery eyes now burned into my bosom’s core; &lt;br /&gt;
+    This and more I sat divining, with my head at ease reclining &lt;br /&gt;
+    On the cushion’s velvet lining that the lamp-light gloated o’er, &lt;br /&gt;
+But whose velvet-violet lining with the lamp-light gloating o’er, &lt;br /&gt;
+            She shall press, ah, nevermore! &lt;br /&gt;
+ &lt;br /&gt;
+    Then, methought, the air grew denser, perfumed from an unseen censer &lt;br /&gt;
+Swung by Seraphim whose foot-falls tinkled on the tufted floor. &lt;br /&gt;
+    “Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee &lt;br /&gt;
+    Respite—respite and nepenthe from thy memories of Lenore; &lt;br /&gt;
+Quaff, oh quaff this kind nepenthe and forget this lost Lenore!” &lt;br /&gt;
+            Quoth the Raven “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!— &lt;br /&gt;
+Whether Tempter sent, or whether tempest tossed thee here ashore, &lt;br /&gt;
+    Desolate yet all undaunted, on this desert land enchanted— &lt;br /&gt;
+    On this home by Horror haunted—tell me truly, I implore— &lt;br /&gt;
+Is there—is there balm in Gilead?—tell me—tell me, I implore!” &lt;br /&gt;
+            Quoth the Raven “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil! &lt;br /&gt;
+By that Heaven that bends above us—by that God we both adore— &lt;br /&gt;
+    Tell this soul with sorrow laden if, within the distant Aidenn, &lt;br /&gt;
+    It shall clasp a sainted maiden whom the angels name Lenore— &lt;br /&gt;
+Clasp a rare and radiant maiden whom the angels name Lenore.” &lt;br /&gt;
+            Quoth the Raven “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting— &lt;br /&gt;
+“Get thee back into the tempest and the Night’s Plutonian shore! &lt;br /&gt;
+    Leave no black plume as a token of that lie thy soul hath spoken! &lt;br /&gt;
+    Leave my loneliness unbroken!—quit the bust above my door! &lt;br /&gt;
+Take thy beak from out my heart, and take thy form from off my door!” &lt;br /&gt;
+            Quoth the Raven “Nevermore.” &lt;br /&gt;
+ &lt;br /&gt;
+    And the Raven, never flitting, still is sitting, still is sitting &lt;br /&gt;
+On the pallid bust of Pallas just above my chamber door; &lt;br /&gt;
+    And his eyes have all the seeming of a demon’s that is dreaming, &lt;br /&gt;
+    And the lamp-light o’er him streaming throws his shadow on the floor; &lt;br /&gt;
+And my soul from out that shadow that lies floating on the floor &lt;br /&gt;
+            Shall be lifted—nevermore!&lt;/p&gt;
+
+&lt;p&gt;— Edgar Allan Poe&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:09:10</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/The_Raven.mp3" length="8756637" type="audio/mpeg" />
+	</item>
+	
 	<item>
 		<title>Ozymandias</title>
 		<dc:creator>Your Name</dc:creator>
@@ -186,8 +488,8 @@ What is all this sweet work worth&lt;br /&gt;
 		<itunes:author>Your Name</itunes:author>
 		<itunes:summary></itunes:summary>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>00:00:54</itunes:duration>
-		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/Loves_Philosophy.mp3" length="818407" type="audio/mpeg" />
+		<itunes:duration>00:00:48</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/Loves_Philosophy.mp3" length="734256" type="audio/mpeg" />
 	</item>
 	
 	<item>
