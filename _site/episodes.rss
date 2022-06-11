@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>8PM Poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Fri, 10 Jun 2022 20:54:09 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jun 2022 21:19:41 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -147,6 +147,40 @@ A mystery of mysteries!&lt;/p&gt;
 	</item>
 	
 	<item>
+		<title>When Passion&apos;s Trance is Overpast</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 08:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/12/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/12/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;When passion’s trance is overpast, &lt;br /&gt;
+If tenderness and truth could last, &lt;br /&gt;
+Or live, whilst all wild feelings keep &lt;br /&gt;
+Some mortal slumber, dark and deep, &lt;br /&gt;
+I should not weep, I should not weep! &lt;br /&gt;
+ &lt;br /&gt;
+It were enough to feel, to see, &lt;br /&gt;
+Thy soft eyes gazing tenderly, &lt;br /&gt;
+And dream the rest–and burn and be &lt;br /&gt;
+The secret food of fires unseen, &lt;br /&gt;
+Couldst thou but be as thou hast been. &lt;br /&gt;
+ &lt;br /&gt;
+After the slumber of the year &lt;br /&gt;
+The woodland violets reappear; &lt;br /&gt;
+All things revive in field or grove, &lt;br /&gt;
+And sky and sea, but two, which move &lt;br /&gt;
+And form all others, life and love.&lt;/p&gt;
+
+&lt;p&gt;— Percy Shelley&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:54</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/When_Passions_Trance_is_Overpast.mp3" length="807560" type="audio/mpeg" />
+	</item>
+	
+	<item>
 		<title>Imitation</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 08:00:00 -0400</pubDate>
@@ -181,6 +215,46 @@ With a thought I then did cherish.&lt;/p&gt;
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>00:00:51</itunes:duration>
 		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Poe/Imitation.mp3" length="771997" type="audio/mpeg" />
+	</item>
+	
+	<item>
+		<title>The Flower That Smiles Today</title>
+		<dc:creator>Your Name</dc:creator>
+		<pubDate>Fri, 10 Jun 2022 07:00:00 -0400</pubDate>
+		<link>http://localhost:4000/episodes/11/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/11/</guid>
+		<description></description>
+		<content:encoded>&lt;p&gt;The flower that smiles to-day &lt;br /&gt;
+          To-morrow dies; &lt;br /&gt;
+All that we wish to stay &lt;br /&gt;
+          Tempts and then flies. &lt;br /&gt;
+What is this world’s delight? &lt;br /&gt;
+Lightning that mocks the night, &lt;br /&gt;
+          Brief even as bright. &lt;br /&gt;
+ &lt;br /&gt;
+   Virtue, how frail it is! &lt;br /&gt;
+          Friendship how rare! &lt;br /&gt;
+Love, how it sells poor bliss &lt;br /&gt;
+          For proud despair! &lt;br /&gt;
+But we, though soon they fall, &lt;br /&gt;
+Survive their joy, and all &lt;br /&gt;
+          Which ours we call. &lt;br /&gt;
+ &lt;br /&gt;
+   Whilst skies are blue and bright, &lt;br /&gt;
+          Whilst flowers are gay, &lt;br /&gt;
+Whilst eyes that change ere night &lt;br /&gt;
+          Make glad the day; &lt;br /&gt;
+Whilst yet the calm hours creep, &lt;br /&gt;
+Dream thou—and from thy sleep &lt;br /&gt;
+          Then wake to weep.&lt;/p&gt;
+
+&lt;p&gt;— Percy Shelley&lt;/p&gt;
+</content:encoded>
+		<itunes:author>Your Name</itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>00:00:58</itunes:duration>
+		<itunes:image href="http://localhost:4000/img/generic-2000.png"/><enclosure url="http://localhost:4000/podcasts/Shelley/The_Flower_That Smiles_Today.mp3" length="877964" type="audio/mpeg" />
 	</item>
 	
 	<item>
