@@ -20,7 +20,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: #014473
+    background-color: #014473;
     // background: linear-gradient(#ecd9fb, #A0A0FF) no-repeat center center fixed;
     // -webkit-background-size: cover;
     //   -moz-background-size: cover;
@@ -44,7 +44,8 @@ body:after{
     left:0;
     right:0;
     z-index:-1; /* needed to keep in the background */
-    background: linear-gradient(#ecd9fb, #A0A0FF) center center;
+    // background: linear-gradient(#ecd9fb, #A0A0FF) center center;
+    background-color: #014473;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
