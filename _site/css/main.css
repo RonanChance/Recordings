@@ -18,7 +18,12 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  color: #111; }
+  color: #111;
+  background: #D1BCF0 center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
 
 body:after {
   content: "";
@@ -31,7 +36,7 @@ body:after {
   right: 0;
   z-index: -1;
   /* needed to keep in the background */
-  background: linear-gradient(#ecd9fb, #b6b6fa) center center;
+  background: #D1BCF0 center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

@@ -20,17 +20,13 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    // background-color: #014473;
-    // background: linear-gradient(#ecd9fb, #A0A0FF) no-repeat center center fixed;
-    // -webkit-background-size: cover;
-    //   -moz-background-size: cover;
-    //   -o-background-size: cover;
-    //   background-size: cover;
-
-
-
-
-
+    // background: linear-gradient(#ecd9fb, #b6b6fa) no-repeat center center fixed;
+    background: #D1BCF0 center center;
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      
     // background-repeat: no-repeat;
     // background-color: $background-color;
     // -webkit-text-size-adjust: 100%;
@@ -44,8 +40,8 @@ body:after{
     left:0;
     right:0;
     z-index:-1; /* needed to keep in the background */
-    background: linear-gradient(#ecd9fb, #b6b6fa) center center;
-    // background-color: #014473;
+    // background: linear-gradient(#ecd9fb, #b6b6fa) center center;
+    background: #D1BCF0 center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
