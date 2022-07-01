@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: episodes/Spirits_of_the_Dead/
-title: "Spirits of the Dead"
+permalink: episodes/Spirits_of_The_Dead/
+title: "Spirits of The Dead"
 excerpt: ""
 date: 2022-06-10 13:00:00
 media: Poe/Spirits_of_The_Dead.mp3

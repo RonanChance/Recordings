@@ -4,7 +4,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 <channel>
 	<title>8PM Poems</title>
 	<link>http://localhost:4000</link>
-	<lastBuildDate>Wed, 15 Jun 2022 00:24:21 -0400</lastBuildDate>
+	<lastBuildDate>Fri, 01 Jul 2022 04:14:38 -0400</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>
 	<itunes:author>Your Name</itunes:author>
@@ -219,11 +219,11 @@ But a dream within a dream?&lt;/p&gt;
 	</item>
 	
 	<item>
-		<title>Spirits of the Dead</title>
+		<title>Spirits of The Dead</title>
 		<dc:creator>Your Name</dc:creator>
 		<pubDate>Fri, 10 Jun 2022 09:00:00 -0400</pubDate>
-		<link>http://localhost:4000/episodes/Spirits_of_the_Dead/</link>
-		<guid isPermaLink="true">http://localhost:4000/episodes/Spirits_of_the_Dead/</guid>
+		<link>http://localhost:4000/episodes/Spirits_of_The_Dead/</link>
+		<guid isPermaLink="true">http://localhost:4000/episodes/Spirits_of_The_Dead/</guid>
 		<description></description>
 		<content:encoded>&lt;p&gt;Thy soul shall find itself alone &lt;br /&gt;
 ‘Mid dark thoughts of the grey tomb-stone; &lt;br /&gt;
